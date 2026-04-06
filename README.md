@@ -83,8 +83,9 @@ const apiKey = "YOUR_API_KEY_HERE";
 
 ## 📸 Screenshots
 
-> Add screenshots of your project UI here to make your repository more attractive.
-
+<img width="1920" height="1080" alt="Screenshot 2026-04-07 010853" src="https://github.com/user-attachments/assets/c79c562a-35df-40e5-9806-e321a40d0a8c" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-07 010928" src="https://github.com/user-attachments/assets/98052296-2e32-468f-af14-7dce1d8c3dee" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-07 010951" src="https://github.com/user-attachments/assets/d68def49-7ada-45ff-b60d-85c7f4c6cab7" />
 
 ## 🚀 Deployment
 
